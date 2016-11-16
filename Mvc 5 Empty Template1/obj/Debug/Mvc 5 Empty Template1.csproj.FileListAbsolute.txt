@@ -1,0 +1,61 @@
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\csc.exe
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\csc.exe.config
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\csc.rsp
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\csi.exe
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\csi.rsp
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.AppContext.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\vbc.exe
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\vbc.exe.config
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\vbc.rsp
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Mvc 5 Empty Template1.dll.config
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Mvc 5 Empty Template1.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Mvc 5 Empty Template1.pdb
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Antlr3.Runtime.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Newtonsoft.Json.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Helpers.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Mvc.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Optimization.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Razor.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\WebGrease.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Antlr3.Runtime.pdb
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\Newtonsoft.Json.xml
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Helpers.xml
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Mvc.xml
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Optimization.xml
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.Razor.xml
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.xml
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\obj\Debug\Mvc 5 Empty Template1.csprojResolveAssemblyReference.cache
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\obj\Debug\Mvc 5 Empty Template1.dll
+C:\Users\Flora\documents\visual studio 2015\Projects\Mvc 5 Empty Template1\Mvc 5 Empty Template1\obj\Debug\Mvc 5 Empty Template1.pdb
